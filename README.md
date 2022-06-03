@@ -1,4 +1,4 @@
-### Hi <img src="https://user-images.githubusercontent.com/62641007/171468102-ad928d60-51c6-42a8-ae2b-fab6f41b20a5.gif" width="30"/>
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1651566999/noticon/xgnjqiiapirbz9ixdiol.gif" width="60"/>
 
 <!--
 **sssseulg2/sssseulg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
