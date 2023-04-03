@@ -3,7 +3,7 @@
 
 <!-- <a href="https://iseulgizzz.oopy.io"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=About.me&logoColor=white&link=https://iseulgizzz.oopy.io"/></a> -->
 
-<p><a href="https://iseulgi.notion.site/19ed48d421504902941bb050bc33257c"><img src="https://img.shields.io/badge/Tech diary-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://iseulgi.notion.site/19ed48d421504902941bb050bc33257c"/></a>
+<p><a href="https://iseulgi.notion.site/19ed48d421504902941bb050bc33257c" target="_blank"><img src="https://img.shields.io/badge/Tech diary-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://iseulgi.notion.site/19ed48d421504902941bb050bc33257c"/></a>
 <a href="mailto:iseulgizzz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iseulgizzz@gmail.com"/></a></p>
 
 
